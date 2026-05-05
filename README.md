@@ -25,6 +25,23 @@ The system is built using **YOLOv8 for object detection**, trained in Google Col
 - 🌐 Fully offline (no internet required)
 
 ---
+## 📂 Dataset
+
+Due to GitHub file size limitations, the dataset is hosted on Google Drive.
+
+👉 **Dataset Download Link:**  
+https://drive.google.com/your-dataset-link
+
+📦 Dataset Size: ~300MB
+
+## 📱 Mobile Application Source Code
+
+Due to large file size (~1.1GB), the complete Flutter application is hosted on Google Drive.
+
+👉 **Download Mobile App Code:**  
+https://drive.google.com/your-app-link
+
+
 
 ## 🧠 System Workflow
 
